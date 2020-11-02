@@ -1,0 +1,17 @@
+nav{
+    text-align: right;
+    padding-right: 2em;
+    padding-top: 1em;
+}
+.span1{
+    color: blue;
+    font-weight: bold;
+}
+.span2{
+    color: blueviolet;
+}
+.book{
+    text-align: right;
+   padding-right: 2em;
+   padding-top: 0em;
+}
